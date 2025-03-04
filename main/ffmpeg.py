@@ -323,13 +323,13 @@ async def get_and_upload_mediainfo(bot, output_file, media):
         f"<strong>SUNRISES 24 BOT UPDATES</strong><br>"
         f"<strong>MediaInfo X</strong><br>"
         f"{media_info_html}"
-        f"<p>Rights Designed By Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ</p>"
+        f"<p>Rights Designed By Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 🇮🇳 </p>"
     )
 
     response = telegraph.post(
         title="MediaInfo",
-        author="SUNRISES 24 BOT UPDATES",
-        author_url="https://t.me/Sunrises24BotUpdates",
+        author="Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs Uᴘᴅᴀᴛᴇs",
+        author_url="https://t.me/SuperToppers0",
         text=media_info_html
     )
     link = f"https://graph.org/{response['path']}"
