@@ -10,7 +10,7 @@ from pymongo.errors import PyMongoError
 
 
 START_TEXT = """
-Hᴇʟʟᴏ<b>< href=tg://settings>Nᴏᴏʙɪᴇs✨</a></b>! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡ 
+Hᴇʟʟᴏ Nᴏᴏʙɪᴇs✨! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡ 
 
 Mᴀᴅᴇ ʙʏ <b><a href=https://t.me/SuperToppers>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 💥</a></b> ᴀɴᴅ <b><a href=https://t.me/UncleChipssbot>Sᴜᴊᴏʏ ❤️</a></b>.
 
