@@ -1,7 +1,7 @@
 { 
-    "name": "MetaMorpher", 
+    "name": "SuperToppers", 
     "description": "ADVANCE RENAME BOT WITH THUMBNAIL,CAPTION & HIGH SPEED ⚡️",
-    "logo":"https://graph.org/file/bd91761f6e938e2e6d23a.jpg",
+    "logo":"",
     "repository": "https://github.com/Aluval/MetaMorpher",   
     "keywords": ["Rename-bot", "Telegram", "ADVANCE RENAME 24 BOT"], 
     "env": { 
