@@ -203,7 +203,7 @@ async def toggle_compress_callback(_, callback_query):
 # Callback query handler for the "sunrises24_bot_updates" button
 @Client.on_callback_query(filters.regex("^sunrises24_bot_updates$"))
 async def sunrises24_bot_updates_callback(_, callback_query):
-    await callback_query.answer("MADE BY @SUNRISES24BOTUPDATES ❤️", show_alert=True)    
+    await callback_query.answer("MADE BY @SUPERTOPPERS ❤️", show_alert=True)    
 
 
 async def update_settings_message(message):
@@ -2345,7 +2345,7 @@ async def mediainfo_handler(client: Client, message: Message):
             f"<strong>SUNRISES 24 BOT UPDATES</strong><br>"
             f"<strong>MediaInfo X</strong><br>"
             f"{media_info_html}"
-            f"<p>Rights Designed By Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ</p>"
+            f"<p>Rights Designed By Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 🇮🇳 </p>"
         )
 
         # Save the media info to an HTML file
@@ -2374,7 +2374,7 @@ async def mediainfo_handler(client: Client, message: Message):
             f"SUNRISES 24 BOT UPDATES\n"
             f"MediaInfo X\n\n"
             f"[View Info on Telegraph]({link})\n"
-            f"Rights designed by Sᴜɴʀɪsᴇs Hᴀʀsʜᴀ 𝟸𝟺 🇮🇳 ᵀᴱᴸ"
+            f"Rights designed by Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 🇮🇳 "
         )
 
         # Send HTML file and Telegraph link
@@ -2594,10 +2594,10 @@ async def broadcast(bot, msg: Message):
 @Client.on_message(filters.command("about"))
 async def about_command(bot, msg):
     about_text = """
-<b>✯ Mʏ Nᴀᴍᴇ : <a href=https://t.me/MetaMorpher24Bot>𝐌𝐞𝐭𝐚𝐌𝐨𝐫𝐩𝐡𝐞𝐫 🌟</a></b>
-<b>✯ Dᴇᴠᴇʟᴏᴘᴇʀ 🧑🏻‍💻 : <a href=https://t.me/Sunrises_24>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒™ ⚡</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs 📢 : <a href=https://t.me/Sunrises24BotUpdates>𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢</a></b>
-<b>✯ Sᴜᴘᴘᴏʀᴛ ✨ : <a href=https://t.me/Sunrises24BotUpdates>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ✨</a></b>
+<b>✯ Mʏ Nᴀᴍᴇ : <a href=https://t.me/Premium_ToppersRobot>𝐓𝐨𝐩𝐩𝐞𝐫𝐬 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐑𝐨𝐛𝐨𝐭 🌟</a></b>
+<b>✯ Dᴇᴠᴇʟᴏᴘᴇʀ 🧑🏻‍💻 : <a> href=https://t.me/SuperToppers>𝐒𝐮𝐩𝐞𝐫 𝐓𝐨𝐩𝐩𝐞𝐫𝐬 🇮🇳</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs 📢 : <a> href=https://t.me/SuperToppers0>𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢</a></b>
+<b>✯ Sᴜᴘᴘᴏʀᴛ ✨ : <a> href=https://t.me/ToppersPremium>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ✨</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs 📊 : ᴠ2.5 [Sᴛᴀʙʟᴇ]</b>
     """
     await msg.reply_text(about_text)
@@ -2657,7 +2657,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
  💭• Tʜɪs Bᴏᴛ Is Fᴏʟʟᴏᴡs ᴛʜᴇ 𝟸GB Bᴇʟᴏᴡ Fɪʟᴇs Tᴏ Tᴇʟᴇɢʀᴀᴍ.\n• 𝟸GB Aʙᴏᴠᴇ Fɪʟᴇs Tᴏ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ.
  
-🔱 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Sunrises_24'>𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒™</a></b>
+🔱 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/UncleChipssBot'>𝐒𝐮𝐣𝐨𝐲 🙂</a></b>
     
    """
     await msg.reply_text(help_text)
