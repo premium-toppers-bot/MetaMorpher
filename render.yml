@@ -1,7 +1,7 @@
 services:
   - type: web
     plan: free
-    name: 𝐌𝐞𝐭𝐚𝐌𝐨𝐫𝐩𝐡𝐞𝐫
+    name: SuperToppers
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
