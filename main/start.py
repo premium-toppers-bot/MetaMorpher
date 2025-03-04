@@ -10,17 +10,17 @@ from pymongo.errors import PyMongoError
 
 
 START_TEXT = """
-Hᴇʟʟᴏ Mᴀᴡа❤️! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡
+Hᴇʟʟᴏ {}✨! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡
 
 Mᴀᴅᴇ ʙʏ <b><a href=https://t.me/SuperToppers>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 💥</a></b> ᴀɴᴅ <b><a href=https://t.me/UncleChipssbot>Sᴜᴊᴏʏ ❤️</a></b>.
 
-Fᴇᴀᴛᴜʀᴇs:
+Fᴇᴀᴛᴜʀᴇs 😎 :
 
 - Rᴇɴᴀᴍᴇ Fɪʟᴇs
 - Mᴀɴᴀɢᴇ Mᴇᴛᴀᴅᴀᴛᴀ
 - Gᴇɴᴇʀᴀᴛᴇ Sᴀᴍᴘʟᴇs
 - Mᴇʀɢᴇ Vɪᴅᴇᴏs
-- Uᴘʟᴏᴀᴅ ᴛᴏ Gᴏғɪʟᴇ
+- Uᴘʟᴏᴀᴅ ᴛᴏ Gᴏᴏɢʟᴇ
 - Sᴄʀᴇᴇɴsʜᴏᴛs & Uɴᴢɪᴘ
 - Aᴛᴛᴀᴄʜ Pʜᴏᴛᴏs
 - Mɪʀʀᴏʀ ᴛᴏ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ
@@ -33,7 +33,7 @@ Fᴇᴀᴛᴜʀᴇs:
 
 Exᴘʟᴏʀᴇ sɪᴍᴘʟɪᴄɪᴛʏ! 💥
 
-#SUPERTOPPERSBOTS #SIMPLERENAMEBOT
+#SuperToppersBots 🔥 
 """
 
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
