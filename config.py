@@ -18,7 +18,7 @@ CAPTION = os.environ.get("CAPTION", "Join @SuperToppers For More...")
 group = environ.get('GROUP', '-1002307334054')
 GROUP = int(group) if group and id_pattern.search(group) else None
 #ALL FILES UPLOADED - CREDITS 🌟 - @SuperToppers
-SUNRISES_PIC= "https://ibb.co/rGGbmNv5"  # Replace with your Telegraph link
+SUNRISES_PIC= "https://ibb.co/rGCVcFfL"  # Replace with your Telegraph link
 AUTH_USERS = int(os.environ.get("AUTH_USERS", '7955112452'))
 WEBHOOK = bool(os.environ.get("WEBHOOK", True))
 PORT = int(os.environ.get("PORT", "8080"))
