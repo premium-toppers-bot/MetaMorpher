@@ -10,7 +10,7 @@ from pymongo.errors import PyMongoError
 
 
 START_TEXT = """
-<b>Hᴇʟʟᴏ {}✨! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡ </b>
+Hᴇʟʟᴏ<b>< href=tg://settings>Nᴏᴏʙɪᴇs✨</a></b>! I ᴀᴍ ᴛʜᴇ Aᴅᴠᴀɴᴄᴇᴅ Rᴇɴᴀᴍᴇ Bᴏᴛ [Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Bᴏᴛ]⚡ 
 
 Mᴀᴅᴇ ʙʏ <b><a href=https://t.me/SuperToppers>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs 💥</a></b> ᴀɴᴅ <b><a href=https://t.me/UncleChipssbot>Sᴜᴊᴏʏ ❤️</a></b>.
 
@@ -187,9 +187,9 @@ async def help(bot, msg):
 @Client.on_callback_query(filters.regex("about"))
 async def about(bot, msg):
     me=await bot.get_me()
-    Dᴇᴠᴇʟᴏᴘᴇʀ ="<a href=https://t.me/UncleChipssBot>Sᴜᴊᴏʏ 🧑🏻‍💻</a>"     
-    txt="<b>Uᴘᴅᴀᴛᴇs 📢: <a href=https://t.me/ToppersPremium></a></b>"
-    txt="<b>Sᴜᴘᴘᴏʀᴛ ✨: <a href=https://t.me/SuperToppers0>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs ⚡™</a></b>"
+    txt="Dᴇᴠᴇʟᴏᴘᴇʀ 😎: <b><a href=https://t.me/UncleChipssBot>Sᴜᴊᴏʏ 👑</a></b>"     
+    txt="Uᴘᴅᴀᴛᴇs 📢: <b><a href=https://t.me/ToppersPremium>Tᴏᴘᴘᴇʀs Pʀᴇᴍɪᴜᴍ Gʀᴏᴜᴘ</a></b>"
+    txt="Sᴜᴘᴘᴏʀᴛ ✨: <b><a href=https://t.me/SuperToppers0>Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs ⚡</a></b>"
     txt="<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs 📊 : ᴠ2.4 [Sᴛᴀʙʟᴇ]</b>" 
     button= [[        
         InlineKeyboardButton("Cʟᴏꜱᴇ ❌", callback_data="del")       
