@@ -329,7 +329,7 @@ async def get_and_upload_mediainfo(bot, output_file, media):
     response = telegraph.post(
         title="MediaInfo",
         author="Sᴜᴘᴇʀ Tᴏᴘᴘᴇʀs Uᴘᴅᴀᴛᴇs",
-        author_url="https://t.me/SuperToppers0",
+        author_url="https://t.me/ToppersPremium",
         text=media_info_html
     )
     link = f"https://graph.org/{response['path']}"
