@@ -2595,9 +2595,9 @@ async def broadcast(bot, msg: Message):
 async def about_command(bot, msg):
     about_text = """
 <b>✯ Mʏ Nᴀᴍᴇ : <a href=https://t.me/Premium_ToppersRobot>𝐓𝐨𝐩𝐩𝐞𝐫𝐬 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐑𝐨𝐛𝐨𝐭 🌟</a></b>
-<b>✯ Dᴇᴠᴇʟᴏᴘᴇʀ 🧑🏻‍💻 : <a> href=https://t.me/SuperToppers>𝐒𝐮𝐩𝐞𝐫 𝐓𝐨𝐩𝐩𝐞𝐫𝐬 🇮🇳</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs 📢 : <a> href=https://t.me/SuperToppers0>𝐔𝐏𝐃𝐀𝐓𝐄𝐒 📢</a></b>
-<b>✯ Sᴜᴘᴘᴏʀᴛ ✨ : <a> href=https://t.me/ToppersPremium>𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ✨</a></b>
+<b>✯ Dᴇᴠᴇʟᴏᴘᴇʀ 🧑🏻‍💻 : <a href=https://t.me/Unclechipssbot>𝐒𝐮𝐣𝐨𝐲 ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs 📢 : <a href=https://t.me/SuperToppers>𝐒𝐮𝐩𝐞𝐫 𝐓𝐨𝐩𝐩𝐞𝐫𝐬 🇮🇳</a></b>
+<b>✯ Sᴜᴘᴘᴏʀᴛ ✨ : <a href=https://t.me/ToppersPremium>𝐓𝐨𝐩𝐩𝐞𝐫𝐬 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 ✨</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs 📊 : ᴠ2.5 [Sᴛᴀʙʟᴇ]</b>
     """
     await msg.reply_text(about_text)
